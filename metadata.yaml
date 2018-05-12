@@ -1,0 +1,39 @@
+_repo: R-cits-d-une-tante--Vol.-4-de-4-M-moires-de-la-Comtesse-de-Boigne-n-e-d-Osmond_30912
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boigne, Louise-Eléonore-Charlotte-Adélaide d'Osmond, comtesse de
+    aliases:
+    - Boigne, comtesse de
+    - Boigne, Louise-Eleonore-Charlotte-Adelaide d'Osmond, comtesse de
+    - De Boigne, Louise-Eléonore-Charlotte-Adélaide d'Osmond, comtesse
+    birthdate: 1781
+    deathdate: 1866
+    gutenberg_agent_id: '34033'
+    url: http://www.gutenberg.org/2009/agents/34033
+    wikipedia: http://fr.wikipedia.org/wiki/Ad%C3%A8le_d'Osmond
+description: ''
+gutenberg_bookshelf:
+- FR Biographie, Mémoires, Journal intime, Correspondance
+- FR Femmes
+gutenberg_issued: '2010-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30912'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Court and courtiers'
+- !lcsh 'France -- History -- 1789-1815'
+- !lcc 'DC'
+- !lcsh 'Boigne, Louise-Eléonore-Charlotte-Adélaide d''Osmond, comtesse de, 1781-1866'
+- !lcsh 'France -- History -- Restoration, 1814-1830'
+title: 'Récits d''une tante (Vol. 4 de 4)
+
+  Mémoires de la Comtesse de Boigne, née d''Osmond'
+url: http://www.gutenberg.org/ebooks/30912
