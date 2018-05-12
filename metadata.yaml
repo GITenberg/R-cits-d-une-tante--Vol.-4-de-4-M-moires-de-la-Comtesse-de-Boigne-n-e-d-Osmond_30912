@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34033
     wikipedia: http://fr.wikipedia.org/wiki/Ad%C3%A8le_d'Osmond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30912#R-cits-d-une-tante--Vol.-4-de-4-M-moires-de-la-Comtesse-de-Boigne-n-e-d-Osmond
 gutenberg_bookshelf:
 - FR Biographie, Mémoires, Journal intime, Correspondance
 - FR Femmes
